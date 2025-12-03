@@ -1,161 +1,137 @@
 <!-- ==========================================================
-   NITESH SHARMA — DARK NEON · ANIMATED "WALL" README (FINAL)
+   NITESH SHARMA — DARK NEON · IMAGE WALL README (PRODUCTION)
    ========================================================== -->
 
-<!-- HERO / FULL-WIDTH ANIMATED WALL -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="neon-code-banner" width="100%" style="max-height:260px; object-fit:cover; border-radius:12px;"/>
-</p>
+<div align="center">
+  <!-- Typing intro (animated SVG) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&color=00F0FF&width=900&lines=NITESH+SHARMA;AI+%26+Full+Stack+Engineer;Problem+Solver+%7C+MERN+%7C+ML" alt="typing" />
+</div>
 
-<h1 align="center" style="margin-top: 6px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=00F0FF&width=900&lines=NITESH+SHARMA;AI+%26+Full+Stack+Engineer;Problem+Solver+%7C+MERN+%7C+ML" alt="typing"/>
-</h1>
-
-<p align="center">
-  <sub style="color:#A6A6A6">
+<p align="center" style="margin-top:8px; color:#BFC7D5;">
   Dual Degree — B.Tech (CSE) + BS (Data Science, IIT Madras) • Hackathon Winner • GSSoC'25 Contributor • 5★ Python on HackerRank
-  </sub>
 </p>
 
 ---
 
-<!-- NEON WALL DIVIDER -->
+<!-- DARK NEON DIVIDER (svg line) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deneubauer/awesome-readme-snippets/main/assets/gradient-divider-1.gif" alt="neon-divider" width="90%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored-lines-2.png" alt="divider" width="90%" />
 </p>
 
 ---
 
-## ✨ Quick Pitch — Hero Panel (Animated)
-<p align="center">
-  <img src="https://media.tenor.com/1gV_s3xZ0QIAAAAC/coding-developer.gif" alt="coding-anim" width="45%" style="border-radius:10px; box-shadow: 0 6px 30px rgba(0,0,0,0.6)"/>
-  <img src="https://media.tenor.com/1-3f0x6GJw8AAAAC/ai-robot.gif" alt="ai-anim" width="45%" style="border-radius:10px; box-shadow: 0 6px 30px rgba(0,0,0,0.6)"/>
-</p>
+## ✨ Quick Pitch — Hero Panel (static image wall)
+<div align="center">
 
-<p align="center" style="color:#CFCFCF; font-size:16px;">
-  I build **automation-first platforms** and **AI-assisted systems** — ERP-grade dashboards, ecommerce flows, and predictive analytics.  
-  Seeking freelance & full-time opportunities: <b>automation, MERN/PERN apps, and ML pipelines.</b>
-</p>
+<!-- Replace these image paths with your own /assets/*.png files in the profile repo -->
+<img src="/assets/hero-1.png" alt="hero-1" width="48%" style="border-radius:12px; box-shadow: 0 12px 40px rgba(0,0,0,0.7); margin:8px;" />
+<img src="/assets/hero-2.png" alt="hero-2" width="48%" style="border-radius:12px; box-shadow: 0 12px 40px rgba(0,0,0,0.7); margin:8px;" />
 
----
+</div>
 
-<!-- ANIMATED TECH CAROUSEL (GIF/TILES) -->
-<h2 align="center" style="color:#00E5FF">🧰 Tech & Tools — Animated Wall</h2>
-<p align="center">
-  <!-- Replace these GIFs with your custom GIFs/screenshots for maximum effect -->
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" alt="react" width="120" style="margin:6px; border-radius:8px"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="node" width="120" style="margin:6px; border-radius:8px"/>
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" alt="python" width="120" style="margin:6px; border-radius:8px"/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="docker" width="120" style="margin:6px; border-radius:8px"/>
-  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" alt="ml" width="120" style="margin:6px; border-radius:8px"/>
-</p>
-
-<p align="center" style="color:#AAAAAA; font-size:13px;">
-  <i>Languages:</i> C • C++ • Java • JavaScript • Python • SQL &nbsp; • &nbsp;
-  <i>Frameworks:</i> MERN • PERN • Vue • Flask • FastAPI &nbsp; • &nbsp;
-  <i>DevOps:</i> GitHub Actions • Docker • CI/CD
+<p align="center" style="color:#C9D1E3; font-size:15px;">
+I build <strong>automation-first platforms</strong> and <strong>AI-assisted systems</strong> — ERP-grade dashboards, ecommerce flows, and predictive analytics.  
+Open to freelance & full-time: <b>automation, MERN/PERN apps, and ML pipelines.</b>
 </p>
 
 ---
 
-<!-- PROJECTS "WALL" — animated tiles -->
-<h2 align="center" style="color:#00E5FF">🚀 Featured Projects — Animated Project Wall</h2>
+## 🧰 Tech & Tools (dark neon badges)
 
 <p align="center">
-  <!-- Project 1 -->
-  <a href="#" title="Plant Nursery Management (Demo)">
-    <img src="https://media.giphy.com/media/26xBukhxWfQWb4hMQ/giphy.gif" alt="nursery-demo" width="300" style="border-radius:12px; margin:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.6)"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+<p align="center" style="color:#AEB7C7; font-size:13px;">
+MERN • PERN • Vue • Flask • FastAPI • Tailwind • Framer Motion • GitHub Actions • Docker • Colab • HuggingFace
+</p>
+
+---
+
+## 🚀 Featured Projects — Image Wall
+
+> Tip: replace each `/assets/*.png` entry with a 1200×700 screenshot (or 1200×600 crop) saved in `/assets`. Use the filenames below or your own.
+
+<p align="center">
+  <a href="<!-- Plant Nursery repo url -->" title="Plant Nursery Management">
+    <img src="/assets/nursery-card.png" alt="Plant Nursery" width="320" style="border-radius:12px; margin:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.65);" />
   </a>
 
-  <!-- Project 2 -->
-  <a href="#" title="Smart Campus Portal (Demo)">
-    <img src="https://media.giphy.com/media/Gw3IWyGkC0rsazTi/giphy.gif" alt="campus-demo" width="300" style="border-radius:12px; margin:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.6)"/>
+  <a href="<!-- Smart Campus frontend repo -->" title="Smart Campus Portal">
+    <img src="/assets/campus-card.png" alt="Smart Campus" width="320" style="border-radius:12px; margin:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.65);" />
   </a>
 
-  <!-- Project 3 -->
-  <a href="#" title="EcoFinds (Demo)">
-    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="ecofinds-demo" width="300" style="border-radius:12px; margin:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.6)"/>
+  <a href="<!-- EcoFinds repo -->" title="EcoFinds">
+    <img src="/assets/ecofinds-card.png" alt="EcoFinds" width="320" style="border-radius:12px; margin:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.65);" />
   </a>
 </p>
 
-<p align="center" style="color:#D0D0D0; font-size:13px;">
-  Click a tile to go to the project repo / demo. <br/>
-  Replace each tile gif with your project's demo GIF (record 6–12s of the app, looped).
+<p align="center" style="color:#C8D2E6; font-size:13px;">
+Click any image to go to the project repo or demo. Prefer screenshots with annotated highlights (callouts) for best recruiter impact.
 </p>
 
 ---
 
-<!-- "WALL" DETAILS FOR EACH PROJECT — animated headers -->
-## 🌿 Plant Nursery Management & Ecommerce
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&color=00FFB3&width=820&lines=Auto-POs+%7C+Stock+Velocity+%7C+Invoices+%26+Dashboards" alt="typing-plant"/></p>
+### Project Quick Summaries (visual tiles)
 
-- Auto-draft Purchase Orders from low-stock signals and velocity-aware suggestions.  
-- One-click invoice (PDF/WhatsApp/Email), exportable reports (CSV/PDF).  
-- Customer storefront + admin analytics.
+<div align="center">
 
-**Tech:** React (CRA), Node, Express, MongoDB, Tailwind, Recharts, PDFKit, Twilio, Nodemailer  
-**Demo:** *(replace tile GIF with your recorded demo)*
+**Plant Nursery Management & Ecommerce** • MERN + Automation  
+- Auto-draft POs, stock velocity, invoices (PDF/WhatsApp), admin analytics.  
+**Tech:** React, Node, MongoDB, Tailwind, Recharts.  
+<br/><br/>
 
----
+**Smart Campus Portal** • MERN ERP  
+- Role-based dashboards, attendance, assignments, placement portal.  
+**Tech:** React, Node, MongoDB, JWT.  
+<br/><br/>
 
-## 🎓 Smart Campus Portal
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&color=00FFB3&width=820&lines=Role-based+Dashboards+%7C+Attendance+%7C+Placement+Portal" alt="typing-campus"/></p>
+**EcoFinds — Sustainable Marketplace** • React + Flask  
+- Product CRUD, cart, order history, JWT auth.  
+**Tech:** React, Flask, SQLAlchemy.
 
-- Role-based flows for Admin / Teacher / Student.  
-- Courses, Attendance, Assignments, Noticeboard, Placement opportunities.  
-- JWT auth + dashboards & analytics.
-
-**Tech:** MERN, Bootstrap, Tailwind  
-**Demo:** *(replace tile GIF with your recorded demo)*
+</div>
 
 ---
 
-## ♻️ EcoFinds — Sustainable Marketplace
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&color=00FFB3&width=820&lines=React+Frontend+%7C+Flask+Backend+%7C+JWT+Auth" alt="typing-ecofinds"/></p>
+## 📊 Live GitHub Insights (dark theme)
 
-- Marketplace for second-hand products — product CRUD, cart, checkout, order history.  
-- Built during Odoo Hackathon 2025.
-
-**Tech:** React, Flask, SQLAlchemy, JWT, SQLite
-
----
-
-<!-- ANIMATED STATS & BADGE WALL -->
-<h2 align="center" style="color:#00E5FF">📈 Live GitHub Wall</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITESHBHARDWAJ001&show_icons=true&theme=darkviolet&hide_border=true" width="48%" style="margin:6px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESHBHARDWAJ001&layout=compact&theme=darkviolet&hide_border=true" width="40%" style="margin:6px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NITESHBHARDWAJ001&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESHBHARDWAJ001&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITESHBHARDWAJ001&theme=dark&hide_border=true" width="46%" style="margin:6px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITESHBHARDWAJ001&theme=react-dark&hide_border=true&area=true" width="46%" style="margin:6px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITESHBHARDWAJ001&theme=radical&hide_border=true" width="46%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITESHBHARDWAJ001&theme=react-dark&area=true" width="46%" />
 </p>
 
 ---
 
-<!-- CALL-TO-ACTION WALL -->
+## 🏆 Achievements & Open for Work
+
+- 🥇 Winner — CDAC Delhi MERN Hackathon (MERN Marverkers)  
+- 🌱 GSSOC'25 Contributor • 5★ HackerRank (Python) • LeetCode Competitive  
+- 🎓 Dual Degree: B.Tech (CSE) + BS Data Science (IIT Madras)  
+- 🔍 Open to: Full-time roles, Freelance MERN/AI projects, Contract automation builds
+
+---
+
+## 📬 Contact & Portfolio
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored-lines-2.png" alt="cta-divider" width="100%"/>
-</p>
-
-<h2 align="center" style="color:#FFD166">📬 Hire / Freelance — Let's build</h2>
-
-<p align="center" style="color:#CFCFCF; font-size:15px;">
-  I'm open to freelance & full-time work: <b>automation systems, MERN/PERN apps, AI integrations, dashboards, and end-to-end product builds.</b><br/>
-  <a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/Email-niteshsharmans775@gmail.com-1A73E8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/NITESHBHARDWAJ001"><img src="https://img.shields.io/badge/GitHub-Profile-11172B?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/Email-niteshsharmans775@gmail.com-1A73E8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/NITESHBHARDWAJ001"><img src="https://img.shields.io/badge/GitHub-Profile-11172B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- FOOTER WALL with animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="footer-anim" width="80%" style="border-radius:8px;"/>
-</p>
-
-<p align="center" style="color:#9F9F9F; font-size:12px;">
-  Built with ❤️ by Nitesh Sharma — AI · Full Stack · Automation  
-  • Dual Degree: B.Tech CSE + BS Data Science (IIT Madras) • GSSOC'25 Contributor
+<p align="center" style="color:#9BA6C3; font-size:12px;">
+Built with ❤️ • Dark Neon Theme • Images hosted in <code>/assets</code> for reliability & speed.
 </p>
