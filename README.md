@@ -1,201 +1,190 @@
-<!-- DARK NEON AI + FULL STACK PORTFOLIO README FOR NITESH SHARMA -->
+<!-- ==========================================================
+        DARK NEON + CYBERPUNK + AI DEVELOPER README
+   ========================================================== -->
 
-<h1 align="center">
-  <span style="font-size: 48px; font-weight: 800;">
-    ⚡ NITESH SHARMA ⚡
-  </span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  <span style="font-weight: 600;">
-    🧠 AI-Powered Full Stack Developer | MERN • PERN • Flask • FastAPI  
-    🚀 Problem Solver • ML Engineer • Competitive Programmer  
-  </span>
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=NITESH+SHARMA;AI+Engineer+%7C+Full+Stack+Developer;Problem+Solver+%7C+Competitive+Programmer;Building+Futuristic+%26+Smart+Systems" />
 
+</div>
+
+---
+
+<!-- NEON DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0ef&size=27&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+%26+ML+Engineer;Dual+Degree:+B.Tech+CSE+%2B+BS+in+Data+Science+IIT+Madras;Hackathon+Winner+%7C+GSSOC'25+Contributor;Building+Smart+Systems+%26+Automation+Platforms;Problem+Solver+%7C+CP+%7C+LeetCode+%7C+5-Star+Python" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="900"/>
 </p>
 
 ---
 
-## 🚀 **About Me**
+<h2 align="center">
+  <span style="color:#00E5FF;">⚡ AI-Powered Full Stack Engineer</span>  
+</h2>
 
-I am **Nitesh Sharma**, a **full-stack engineer**, **AI/ML practitioner**, and **problem solver** with a strong foundation in **computer science + data science**.  
-I build **scalable systems**, **automation-heavy platforms**, and **AI-powered applications** that solve real-world problems.
-
-🎓 **Dual Degree:**  
-- **B.Tech in Computer Science (SIET Nilokheri)**  
-- **BS in Data Science (IIT Madras)**  
-- **Diploma in Programming (IIT Madras)**  
-
-🏆 **Achievements**  
-- 🥇 **Winner – CDAC Delhi MERN Hackathon (Team: MERN Marverkers)**  
-- 🏅 **Finalist – Multiple National Hackathons**  
-- 🌱 **GirlScript Summer of Code (GSSOC) 2025 Contributor**  
-- ⭐ **HackerRank Python – 5 Star**  
-- 🔥 **LeetCode Competitive Programmer**
+<p align="center">
+  <b style="color:#E0E0E0;">
+  MERN • PERN • Vue • Flask • FastAPI • ML • Automation Engineering  
+  Dual Degree: B.Tech CSE + BS Data Science (IIT Madras)
+  </b>
+</p>
 
 ---
 
-## 🌐 **Portfolio & Contact**
-🔗 **Portfolio:** https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/  
-🐙 **GitHub:** https://github.com/NITESHBHARDWAJ001  
-📩 **Email:** niteshsharmans775@gmail.com  
+## 🧠 **Who Am I? (Short & Powerful)**
+
+I am **Nitesh Sharma**, a futuristic **AI-driven Full Stack Developer**,  
+specialized in building **automated platforms**, **intelligent dashboards**,  
+and full-scale systems that combine:
+
+✨ **Engineering + Data Science + Automation + ML Intelligence**
+
+My work focuses on:
+
+✔ Smart ERP systems  
+✔ Automated business workflows  
+✔ AI-assisted analytics  
+✔ High-performance full-stack apps  
+✔ Scalable backend architectures  
+✔ Real-world impactful digital systems  
 
 ---
 
-## 🧠 **Tech Stack (Languages + Core Skills)**
+# 🌐 **Connect With Me**
+<div align="center">
 
-### 🔤 **Languages**
-`C` • `C++` • `Java` • `JavaScript` • `Python` • `SQL`
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-11172B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITESHBHARDWAJ001)
+[![Email](https://img.shields.io/badge/Email-1A73E8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niteshsharmans775@gmail.com)
 
-### 🧩 **Core CS + AI**
-- Data Structures & Algorithms  
-- Operating Systems  
-- DBMS  
-- OOP  
-- Machine Learning  
-- Deep Learning Basics  
-- Math & Statistics  
-- Data Engineering Basics  
+</div>
 
 ---
 
-## 🧰 **Frameworks & Tools**
+# 🧠 **Tech Arsenal (Dark + Neon Icons)**
 
-### 🎯 **Full Stack**
-- **MERN Stack (MongoDB, Express, React, Node)**
-- **PERN Stack (PostgreSQL, Express, React, Node)**
-- **Vue.js (Vue 3)**  
-- **Flask**
-- **FastAPI**
+<div align="center">
 
-### 🛠️ **DevOps & Cloud**
-- Git • GitHub  
-- GitHub Actions  
-- Docker (basic)  
-- CI/CD pipelines  
-- Colab • HuggingFace  
+### 🚀 **Languages**
+`C` · `C++` · `Java` · `JavaScript` · `Python` · `SQL`
 
-### 🎨 **Frontend Libraries**
-- TailwindCSS  
-- Bootstrap 5  
-- Framer Motion  
-- Recharts / Chart.js  
+### ⚡ **Frameworks**
+**MERN** · **PERN** · **Flask** · **FastAPI** · **Vue 3**  
+**Tailwind** · **Bootstrap** · **Framer Motion**
 
----
+### 🔮 **AI & Data**
+Machine Learning · Statistics · Math  
+Model Deployment · Data Analysis  
+Colab · HuggingFace
 
-# ⚡ **Highlighted Projects**
+### 🔧 **DevOps & Tools**
+Git · GitHub Actions · Docker  
+PDFKit · Nodemailer · Twilio  
 
-## 🌿 **1. Plant Nursery Management & Ecommerce (MERN + Automation)**  
-A complete **inventory + ecommerce + automation platform** for plant nurseries with PO automation, billing, dashboards, and customer ordering.
-
-**Key Features:**  
-✔ Auto-draft purchase orders  
-✔ Smart stock management + alerts  
-✔ Invoice generation (PDF/Email/WhatsApp)  
-✔ Customer-facing ecommerce storefront  
-✔ Admin dashboards + analytics  
-✔ Reports (CSV/PDF)
-
-**Tech:** MERN, Tailwind, Recharts, PDFKit, Twilio, Nodemailer  
-**Role:** Full Stack + Architect  
-📌 *(Add GitHub link when ready)*
+</div>
 
 ---
 
-## 🎓 **2. Smart Campus Management (MERN)**  
-A multi-role ERP platform for **Admin, Teachers, Students**.
+# 🎯 **Highlighted Mega Projects (Visually Enhanced)**
 
-**Modules:**  
-- Courses, Attendance, Assignments  
-- Material sharing  
-- Student profile + resume  
+---
+
+## 🌿 **Plant Nursery Management & Ecommerce (MERN + Automation)**  
+A next-gen ERP + Ecommerce hybrid for plant nurseries.
+
+✨ **Features:**  
+- Auto-draft purchase orders  
+- Smart stock predictions  
+- Invoice generation (PDF/Email/WhatsApp)  
+- Dashboards + insights  
+- Customer ecommerce storefront  
+
+🚀 **Tech:** React, Node, MongoDB, Tailwind, Recharts, PDFKit, Twilio  
+
+---
+
+## 🎓 **Smart Campus Management System (MERN ERP)**  
+A full academic automation platform for  
+**Admin · Teachers · Students**.
+
+🎯 **Includes:**  
+- Courses + Attendance + Assignments  
+- Materials + Submissions  
 - Placement portal  
-- Notices & events  
-- JWT authentication + dashboards  
-
-**Tech:** MERN, Bootstrap, Tailwind  
+- Profile & Skills  
+- JWT Auth + Dashboards  
 
 ---
 
-## ♻️ **3. EcoFinds – Sustainable Marketplace (React + Flask)**  
-Second-hand marketplace built during **Odoo Hackathon 2025**.
+## ♻️ **EcoFinds — Sustainable Marketplace (React + Flask)**  
+Built for **Odoo Hackathon 2025**.
 
-**Features:**  
+💡 **Modules:**  
 - Product CRUD  
-- Search + filters  
-- Cart + checkout  
-- Order history  
-- User dashboard  
-- JWT auth  
-
-**Tech:** React, Flask, SQLAlchemy, JWT, SQLite  
+- Cart + Checkout  
+- Order History  
+- Dashboard  
+- Filters & Search  
 
 ---
 
-## 🛡️ **4. Crime Analysis & Reporting System (AI + Web App)**  
-Citizen + admin portal for crime reporting & ML-assisted severity analysis.
+## 🛡 **Crime Analysis & Reporting (AI + Web)**  
+Government-grade reporting + ML severity tagging.
 
-**Highlights:**  
-- Geolocation-based reporting  
-- Hotspot visualization  
-- ML-based severity tagging  
-- Admin dashboards  
-
-**Tech:** Python, ML, Maps API, Flask  
+🔐 Citizen + Admin modules | Maps | Hotspots | Alerts  
 
 ---
 
-## 🧩 **5. Quiz Master (Vue + Flask + Celery)**  
-Quiz creation + performance analytics system.
+## 🎮 **Quiz Master (Vue + Flask + Celery)**  
+Complete quiz engine with analytics + notifications.
 
-**Features:**  
-- Subjects, chapters, quizzes  
-- Timed quiz engine  
-- Progress tracking  
-- Email notifications  
-- Celery for background jobs  
-
-**Tech:** Vue.js 3, Flask, SQLAlchemy, Redis, Celery  
+📊 Subjects → Chapters → Quizzes → Reports  
 
 ---
 
-# ✨ **AI × Full Stack Skill Highlights**
-- ✔ Build **automation driven** dashboards & ERP-like systems  
-- ✔ Integrated **PDF generation**, **email/SMS sending**, **real-time updates**  
-- ✔ Designed **role-based auth**, **scalable API architectures**, **modular UIs**  
-- ✔ Applied **ML models** for analytics & predictions  
-- ✔ Created **end-to-end systems** from frontend → backend → deployment  
+# 🏆 **Achievements & Developer Milestones**
+
+- 🥇 **Winner:** CDAC Delhi MERN Hackathon (Team: MERN Marverkers)  
+- 🎖️ **Finalist:** Multiple national hackathons  
+- 🌱 **Contributor:** GSSOC 2025  
+- ⭐ **5-Star Python:** HackerRank  
+- 🔥 Competitive Programmer on **LeetCode**  
+- 🎓 Dual Degree: **B.Tech CSE + BS Data Science (IIT Madras)**  
+- 🧪 Diploma in Programming — IITM  
 
 ---
 
-# 📊 **GitHub Analytics (Auto Updating)**
+# 📊 **Neon GitHub Analytics (Dark Mode)**
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NITESHBHARDWAJ001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESHBHARDWAJ001&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NITESHBHARDWAJ001&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NITESHBHARDWAJ001&theme=react-dark&hide_border=true&area=true&custom_title=Nitesh's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# 🚀 **What I’m Open To**
+- Full Stack Developer Roles  
+- AI / ML Engineering Roles  
+- Freelance Projects  
+- Startup Collaborations  
+- Automation & ERP System Development  
+- Hackathon Teams  
+
+---
+
+# 💬 **Let’s Build Something Amazing**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITESHBHARDWAJ001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESHBHARDWAJ001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <i style="color:#00E5FF;">“Smart Problems deserve Smart Engineers — and Smarter Automation.”</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITESHBHARDWAJ001&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://media.tenor.com/UttC4AITYRkAAAAC/coding.gif" width="450"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITESHBHARDWAJ001&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🚀 **Let’s Connect**
-<p align="center">
-  <a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NITESHBHARDWAJ001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-## 🖤 _“Code with logic. Build with purpose. Deploy with confidence.”_
 
