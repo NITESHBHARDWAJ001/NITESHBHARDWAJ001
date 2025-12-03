@@ -74,70 +74,156 @@ const nitesh = {
 
 <div align="center">
 
-## 🚀 Featured Projects 🚀
+## 🚀 Featured Projects Portfolio 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&text=&fontSize=0" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&text=&fontSize=0" width="100%">
 
 </div>
 
-<table align="center" style="border: none;">
-<tr>
-<td width="50%" align="center">
+---
 
-### 🌱 Plant Nursery Management & Ecommerce
-<img src="https://via.placeholder.com/400x200/0D1117/00FFFF?text=MERN+Stack+Project" alt="Plant Nursery" width="100%"/>
+### 🌱 **Plant Nursery Management & Ecommerce Platform**
 
-**Tech Stack:** MERN, Tailwind CSS, Recharts, PDFKit, Twilio  
-**Impact:** Auto Purchase Orders • Smart Stock Velocity • Complete ERP Solution  
-**Features:** Admin Dashboards • Billing System • Real-time Reports
+<div align="center">
+<img src="https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Plant Nursery System" width="800" style="border-radius: 15px; border: 2px solid #00FFFF;"/>
+</div>
 
-</td>
-<td width="50%" align="center">
+<div align="center">
 
-### 🎓 Smart Campus Portal (ERP System)
-<img src="https://via.placeholder.com/400x200/0D1117/FF6B6B?text=MERN+ERP+System" alt="Campus Portal" width="100%"/>
+**🛠️ Tech Arsenal:** `MERN Stack` • `Tailwind CSS` • `Recharts` • `PDFKit` • `Twilio API`
 
-**Tech Stack:** MERN, JWT Authentication, Role-based Access  
-**Impact:** Streamlined campus operations for 1000+ users  
-**Features:** Course Management • Attendance Tracking • Placement Portal
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+</div>
 
-### 🌍 EcoFinds – Sustainable Marketplace
-<img src="https://via.placeholder.com/400x200/0D1117/4ECDC4?text=React+%2B+Flask" alt="EcoFinds" width="100%"/>
+**🎯 Project Impact:**
+- 🔄 **Automated Purchase Orders** - Smart inventory management system
+- 📊 **Stock Velocity Analytics** - Real-time demand forecasting 
+- 💼 **Complete ERP Solution** - End-to-end business management
+- 📱 **Admin Dashboards** - Intuitive management interfaces
+- 🧾 **Advanced Billing System** - Invoice generation & tracking
+- 📈 **Business Intelligence Reports** - Data-driven insights
 
-**Tech Stack:** React, Flask, JWT, RESTful APIs  
-**Impact:** Promoting sustainable commerce  
-**Features:** Product CRUD • Cart System • Order History
+---
 
-</td>
-<td width="50%" align="center">
+### 🎓 **Smart Campus Portal - ERP Management System**
 
-### 🔍 Crime Analysis & Reporting System
-<img src="https://via.placeholder.com/400x200/0D1117/FFD93D?text=AI+%2B+Web+App" alt="Crime Analysis" width="100%"/>
+<div align="center">
+<img src="https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Campus Management System" width="800" style="border-radius: 15px; border: 2px solid #FF6B6B;"/>
+</div>
 
-**Tech Stack:** AI/ML, Python, Web Technologies  
-**Impact:** Smart crime pattern detection using AI  
-**Features:** Citizen Reporting • ML Severity Scoring • Hotspot Analysis
+<div align="center">
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" colspan="2">
+**🛠️ Tech Arsenal:** `MERN Stack` • `JWT Authentication` • `Role-Based Access Control` • `RESTful APIs`
 
-### 🧠 Quiz Master (Advanced Quiz Platform)
-<img src="https://via.placeholder.com/400x200/0D1117/A8E6CF?text=Vue+%2B+Flask+%2B+Celery" alt="Quiz Master" width="100%"/>
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 
-**Tech Stack:** Vue.js, Flask, Celery, Email Integration  
-**Impact:** Intelligent quiz management system  
-**Features:** Timed Quizzes • User Analytics • Email Notifications
+</div>
 
-</td>
-</tr>
-</table>
+**🎯 Project Impact:**
+- 👥 **Multi-Role System** - Admin/Teacher/Student dashboards
+- 📚 **Course Management** - Complete curriculum handling
+- 📊 **Attendance Tracking** - Automated monitoring system
+- 📝 **Assignment Portal** - Submission & grading system
+- 🎯 **Placement Management** - Career opportunity tracking
+- 🔐 **Secure Authentication** - JWT-based user management
+
+---
+
+### 🌍 **EcoFinds - Sustainable Marketplace Platform**
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Sustainable Marketplace" width="800" style="border-radius: 15px; border: 2px solid #4ECDC4;"/>
+</div>
+
+<div align="center">
+
+**🛠️ Tech Arsenal:** `React.js` • `Flask` • `JWT Authentication` • `RESTful APIs` • `PostgreSQL`
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+
+</div>
+
+**🎯 Project Impact:**
+- 🌱 **Eco-Friendly Commerce** - Promoting sustainable products
+- 🛒 **Smart Shopping Cart** - Enhanced user experience
+- 📦 **Order Management** - Complete purchase lifecycle
+- 👤 **User Profiles** - Personalized shopping experience
+- 🔍 **Product Discovery** - Advanced search & filtering
+- 📊 **Purchase Analytics** - Shopping behavior insights
+
+---
+
+### 🔍 **Crime Analysis & Reporting Intelligence System**
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Crime Analysis System" width="800" style="border-radius: 15px; border: 2px solid #FFD93D;"/>
+</div>
+
+<div align="center">
+
+**🛠️ Tech Arsenal:** `Python` • `Machine Learning` • `Data Analytics` • `Web Technologies` • `AI Models`
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+
+</div>
+
+**🎯 Project Impact:**
+- 🤖 **AI-Powered Analysis** - Smart crime pattern detection
+- 📊 **Predictive Analytics** - Crime hotspot identification  
+- 📱 **Citizen Reporting** - Community-driven safety platform
+- 🎯 **Severity Scoring** - ML-based threat assessment
+- 🗺️ **Geographic Mapping** - Visual crime distribution
+- 📈 **Real-time Insights** - Live crime trend analysis
+
+---
+
+### 🧠 **Quiz Master - Advanced Learning Platform**
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Quiz Platform" width="800" style="border-radius: 15px; border: 2px solid #A8E6CF;"/>
+</div>
+
+<div align="center">
+
+**🛠️ Tech Arsenal:** `Vue.js` • `Flask` • `Celery` • `Redis` • `Email Integration` • `PostgreSQL`
+
+[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white)](https://celeryproject.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+
+</div>
+
+**🎯 Project Impact:**
+- 📚 **Smart Content Organization** - Subjects → Chapters → Quizzes
+- ⏱️ **Advanced Timer Engine** - Precise time management
+- 📊 **Learning Analytics** - Performance tracking & insights  
+- 📧 **Automated Notifications** - Email-based updates
+- 🎯 **Adaptive Testing** - Personalized quiz difficulty
+- 👥 **Multi-user Support** - Scalable learning platform
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer&text=&fontSize=0" width="100%">
+
+**🔥 Each project showcases full-stack expertise with real-world impact! 🔥**
+
+</div>
 
 ---
 
