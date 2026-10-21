@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img"><defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#cfc5af" opacity="0.55"/></pattern></defs><rect width="1280" height="150" fill="#f1eadc"/><rect width="1280" height="150" fill="url(#dots)"/>
-<text x="40" y="52" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="3" fill="#c9431e">04  ·  SPONSORS</text>
-<text x="38" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" fill="#1d1a15" letter-spacing="-1.5">Powered by</text>
-<text x="1240" y="108" text-anchor="end" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#5f584b">the tools this programme runs on</text>
-<line x1="40" y1="132" x2="1240" y2="132" stroke="#1d1a15" stroke-width="1.6" stroke-dasharray="6 7"><animate attributeName="stroke-dashoffset" from="0" to="-26" dur="2s" repeatCount="indefinite"/></line>
-<circle cx="40" cy="132" r="5" fill="#c9431e"/>
-</svg>
