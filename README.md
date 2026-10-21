@@ -2,30 +2,26 @@
 
 <a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="assets/banner.svg" alt="Nitesh Sharma, The Full-Stack Sessions, Edition 2026" width="100%"></a>
 
-<a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D1A15?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/nitesh-sharma-5b4115306"><img src="https://img.shields.io/badge/LinkedIn-22418F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/Email-C9431E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://forms.gle/ew34HM4nH6JdGeHv6"><img src="https://img.shields.io/badge/Project_enquiry-1F4D3A?style=for-the-badge&logo=googleforms&logoColor=white" alt="Project enquiry form"></a>
+<a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2EE6D6?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/nitesh-sharma-5b4115306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://forms.gle/ew34HM4nH6JdGeHv6"><img src="https://img.shields.io/badge/Project_enquiry-A78BFA?style=for-the-badge&logo=googleforms&logoColor=white" alt="Project enquiry form"></a>
 
 <img src="assets/stats.svg" alt="28 projects built, 11 live demos, 3 internships, 4 hackathon podiums, 176+ LeetCode problems solved" width="100%">
+
+<img src="assets/github-live.svg" alt="Live from GitHub: commits, pull requests, public repos, stars and followers" width="100%">
 
 </div>
 
 <img src="assets/h-keynote.svg" alt="01 Keynote: What I do" width="100%">
 
-```typescript
-const nitesh = {
-  now: "Full Stack Developer Intern at Site Guru (since 15 Jun 2026)",
-  before: ["Qgenii EdTech (Jul 2025 – Apr 2026)", "Bharati Expoads (Jul – Dec 2025)"],
-  studying: [
-    "B.Tech CSE, SIET Nilokheri (2023 – 2027)",
-    "BS in Data Science and Applications, IIT Madras (ongoing)",
-  ],
-  completed: "BSc in Programming and Data Science, IIT Madras (May 2026)",
-  builds: ["event platforms", "hiring platforms", "multi-tenant SaaS", "real-time video and chat", "AI-assisted tools"],
-  openTo: "Full-time roles and freelance projects",
-};
-```
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel-art developer coding at a desk" width="100%">
+
+<img src="assets/about.svg" alt="nitesh.ts: current role, studies and what I build, with a terminal showing what I'm shipping" width="100%">
+
+</div>
 
 I start with a messy real-world process (a college running a hackathon on WhatsApp and five spreadsheets, a company tracking its team in chat threads) and turn it into software people actually use. I draw the data and permission model first, then build the whole stack: React or Vue, Node and Express, Postgres, MariaDB or Mongo, with sockets or WebRTC where it needs to feel live. Then I test it hard and ship it.
 
@@ -99,8 +95,8 @@ I start with a messy real-world process (a college running a hackathon on WhatsA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NITESHBHARDWAJ001&show_icons=true&hide_border=false&bg_color=F8F3E8&border_color=1D1A15&title_color=C9431E&icon_color=1F4D3A&text_color=1D1A15&ring_color=C9431E" width="49%" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESHBHARDWAJ001&layout=compact&hide_border=false&bg_color=F8F3E8&border_color=1D1A15&title_color=C9431E&text_color=1D1A15" width="49%" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=NITESHBHARDWAJ001&show_icons=true&count_private=true&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=2EE6D6&icon_color=FF6B6B&text_color=E6EDF3&ring_color=2EE6D6" width="49%" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESHBHARDWAJ001&layout=compact&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=2EE6D6&text_color=E6EDF3" width="49%" alt="Top languages">
 
 </div>
 
@@ -110,12 +106,12 @@ Open to **full-time roles** and **freelance projects**, especially event, hiring
 
 <div align="center">
 
-<a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/niteshsharmans775%40gmail.com-C9431E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/nitesh-sharma-5b4115306"><img src="https://img.shields.io/badge/LinkedIn-22418F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D1A15?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:niteshsharmans775@gmail.com"><img src="https://img.shields.io/badge/niteshsharmans775%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/nitesh-sharma-5b4115306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://portfolio-git-main-nitesh-sharmas-projects-3b96572d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2EE6D6?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio"></a>
 
 <img src="assets/footer.svg" alt="See you at the next edition" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=NITESHBHARDWAJ001&label=Visitors&color=C9431E&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=NITESHBHARDWAJ001&label=Visitors&color=2EE6D6&labelColor=0D1117&style=flat-square" alt="Profile views">
 
 </div>
